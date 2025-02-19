@@ -19,11 +19,6 @@ Un ETF (Exchange-Traded Fund), ou fonds négocié en bourse, est un type de fond
 pip install requests matplotlib pandas
 ```
 
-## Utilisation
-```bash
-python etf_analysis.py
-```
-
 ## Résultats 
 
 ![Interest Rates](images/plot.png)
