@@ -24,7 +24,9 @@ pip install requests matplotlib pandas
 python etf_analysis.py
 ```
 
-## Résultats attendus
-- Liste des ETF triés par performance sur 1 an.
-- Graphiques de performances et rendements.
-- Statistiques sur les ratios de frais et les dividendes.
+## Résultats 
+
+![Interest Rates](images/plot.png)
+
+
+
