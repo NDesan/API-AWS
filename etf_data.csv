@@ -1,0 +1,21 @@
+id;title;symbol;description;expense_ratio;total_assets;sector;region;dividend_yield;date_of_inception;1_year;3_years;5_years
+1;SPDR S&P 500 ETF;SPY;Fonds négocié en bourse qui suit l'indice S&P 500, regroupant les 500 plus grandes entreprises américaines.;0.09;40000000000;Large Cap Equity;USA;1.45;1993-01-22;22.1;18.4;15.7
+2;Vanguard Total Stock Market ETF;VTI;ETF offrant une exposition à l'ensemble du marché boursier américain, y compris les actions de grandes, moyennes et petites entreprises.;0.03;20000000000;Total Market Equity;USA;1.77;2001-05-24;19.8;17.2;14.9
+3;iShares MSCI Emerging Markets ETF;EEM;ETF qui permet d'investir dans des entreprises des marchés émergents à travers le monde.;0.68;25000000000;Emerging Markets;Global;2.1;2003-04-16;15.3;10.6;8.2
+4;Invesco QQQ Trust;QQQ;Suivi de l'indice NASDAQ-100, représentant les 100 plus grandes entreprises non financières cotées à la Bourse NASDAQ.;0.2;16000000000;Technology & Growth;USA;0.72;1999-03-10;28.9;24.5;20.3
+5;Vanguard FTSE All-World ex-US ETF;VEU;ETF qui permet d'investir dans des actions de sociétés internationales, excluant celles des États-Unis.;0.08;18000000000;Global Equity;Ex-USA;2.02;2007-06-19;12.6;10.1;7.9
+6;Schwab U.S. Dividend Equity ETF;SCHD;Fonds investissant dans des sociétés américaines ayant un historique de paiements de dividendes élevés.;0.06;25000000000;Dividend Equity;USA;3.35;2011-10-20;15.7;12.4;10.3
+7;SPDR Gold Shares ETF;GLD;Investissement dans l'or physique sous forme d'un ETF, permettant une exposition à la valeur de l'or sans détenir physiquement le métal.;0.4;32000000000;Commodities;Global;0.0;2004-11-18;8.2;5.4;2.5
+8;iShares Russell 2000 ETF;IWM;ETF qui suit l'indice Russell 2000, regroupant les 2000 plus petites entreprises américaines.;0.19;21000000000;Small Cap Equity;USA;1.5;2000-05-22;23.0;18.0;14.7
+9;iShares MSCI ACWI ex U.S. ETF;ACWX;ETF qui offre une exposition aux actions mondiales, en excluant les États-Unis, sur des marchés développés et émergents.;0.32;14000000000;Global Equity;Ex-USA;2.1;2008-06-23;10.5;7.8;6.4
+10;Vanguard Real Estate ETF;VNQ;ETF qui investit dans des actions de sociétés immobilières et de fonds de placement immobilier (REITs).;0.12;35000000000;Real Estate;USA;3.8;2004-09-23;8.7;6.4;7.1
+11;SPDR S&P Dividend ETF;SDY;ETF qui suit l'indice S&P High Yield Dividend Aristocrats, composé de sociétés ayant une longue tradition de versement de dividendes stables ou croissants.;0.35;13000000000;Dividend Equity;USA;3.5;2005-11-08;14.1;12.9;11.5
+12;iShares Core S&P 500 ETF;IVV;ETF qui vise à répliquer la performance de l'indice S&P 500, représentant les 500 entreprises américaines majeures.;0.03;25000000000;Large Cap Equity;USA;1.5;2000-05-15;21.4;19.0;16.2
+13;SPDR S&P MidCap 400 ETF;MDY;ETF qui suit l'indice S&P MidCap 400, représentant les 400 entreprises moyennes américaines.;0.23;19000000000;Mid Cap Equity;USA;1.8;1995-06-24;19.4;16.3;14.1
+14;Vanguard FTSE Developed Markets ETF;VEA;ETF investissant dans des actions de sociétés de marchés développés, excluant les États-Unis et le Canada.;0.05;22000000000;Developed Market Equity;Ex-USA/Canada;3.2;2007-06-19;8.9;5.7;4.3
+15;iShares MSCI ACWI ETF;ACWI;ETF qui suit l'indice MSCI All Country World Index, représentant les actions mondiales.;0.32;23000000000;Global Equity;Global;2.3;2008-04-03;15.0;11.5;9.3
+16;Vanguard Growth ETF;VUG;ETF qui investit dans des actions américaines à forte croissance.;0.04;20000000000;Growth;USA;0.7;2004-01-26;23.8;18.2;15.0
+17;iShares Global 100 ETF;IOO;ETF qui investit dans les 100 plus grandes entreprises mondiales.;0.4;17000000000;Global Equity;Global;1.8;2001-05-17;13.4;10.5;8.7
+18;SPDR Bloomberg Barclays High Yield Bond ETF;JNK;ETF investissant dans des obligations à haut rendement.;0.4;20000000000;High Yield Bonds;Global;5.9;2007-11-02;8.0;6.4;5.3
+19;Vanguard Total International Stock ETF;VXUS;ETF offrant une exposition au marché boursier international, à l'exclusion des actions américaines.;0.08;21000000000;International Equity;Ex-USA;2.4;2010-01-26;9.7;7.5;5.9
+20;iShares U.S. Real Estate ETF;IYR;ETF qui investit dans des sociétés immobilières américaines.;0.42;15000000000;Real Estate;USA;3.9;2000-06-16;7.4;5.3;6.8
